@@ -7,7 +7,7 @@
 <br>
 
 ### Problem Statement:
-- Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
+- Build a Sales Analysis, Time Series Analysis Dashboard.
 
 ### Tools Used: 
 - Microsoft Power BI
@@ -24,6 +24,8 @@ https://in.docworkspace.com/d/sIE7F-e78Af7L-LEG
 ![Screenshot 2024-04-27 112330](https://github.com/harshuu2002/Superstore-Sales-Dashboard/assets/165991340/9616418a-7702-4b78-b78c-5cd5a3f0e764)
 
 ### Time Series Analysis
+
+![Screenshot 2024-04-27 112412](https://github.com/harshuu2002/Superstore-Sales-Dashboard/assets/165991340/f75747a2-3aac-45fa-b9ba-da0419000b01)
 
 
 
