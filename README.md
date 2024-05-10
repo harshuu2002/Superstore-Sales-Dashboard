@@ -19,7 +19,11 @@
 https://in.docworkspace.com/d/sIE7F-e78Af7L-LEG
 <br>
 
-### Dashboards
+### Sales Dashboards
+
+![Screenshot 2024-04-27 112330](https://github.com/harshuu2002/Superstore-Sales-Dashboard/assets/165991340/9616418a-7702-4b78-b78c-5cd5a3f0e764)
+
+### Time Series Analysis
 
 
 
